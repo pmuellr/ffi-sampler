@@ -1,0 +1,18 @@
+{
+  "name":               "ffi-sampler",
+  "version":            "1.0.0",
+  "description":        "some Foreign Function Interface samples",
+  "author":             "pmuellr",
+  "homepage":           "https://github.com/pmuellr/ffi-sampler",
+  "license":            "Apache-2.0",
+  "repository": {
+    "type":             "git",
+    "url" :             "https://github.com/pmuellr/ffi-sampler.git"
+  },
+  "dependencies": {
+    "ffi":              "https://github.com/node-ffi/node-ffi.git#v2",
+    "ref":              "1.1.x",
+    "ref-struct":       "1.0.x",
+    "ref-array":        "1.1.x"
+  }
+}
